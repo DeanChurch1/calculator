@@ -1,6 +1,5 @@
 #Calculator
 #Dean Church
-#Adeyinka Adegbenro
 
 
 from tkinter import *
